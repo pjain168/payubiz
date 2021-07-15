@@ -1,0 +1,17 @@
+{
+  "name": "payubiz",
+  "version": "1.0.0",
+  "description": "payu money payment plugin",
+  "cordova": {
+    "id": "payubiz",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "payU money",
+  "license": "ISC"
+}
